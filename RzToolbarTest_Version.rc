@@ -1,0 +1,32 @@
+LANGUAGE LANG_ENGLISH,SUBLANG_ENGLISH_US
+
+1 VERSIONINFO LOADONCALL MOVEABLE DISCARDABLE IMPURE
+FILEVERSION 1, 0, 0, 0
+PRODUCTVERSION 1, 0, 0, 0
+FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+FILEOS VOS__WINDOWS32
+FILETYPE VFT_APP
+{
+ BLOCK "StringFileInfo"
+ {
+  BLOCK "040904E4"
+  {
+   VALUE "CompanyName", "Some Company\000"
+   VALUE "FileDescription", "\000"
+   VALUE "FileVersion", "1.0.0.0\000"
+   VALUE "InternalName", "RzToolbarTest\000"
+   VALUE "LegalCopyright", "© 2024\000"
+   VALUE "LegalTrademarks", "\000"
+   VALUE "OriginalFilename", "RzToolbarTest.exe\000"
+   VALUE "ProductName", "RzToolbar Test\000"
+   VALUE "ProductVersion", "1.0\000"
+   VALUE "Comments", "\000"
+   VALUE "Revision", "\000"
+   VALUE "BuildDateTime", "\000"
+  }
+ }
+ BLOCK "VarFileInfo"
+ {
+  VALUE "Translation", 1033, 1252
+ }
+}
